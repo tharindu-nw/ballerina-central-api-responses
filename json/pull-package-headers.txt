@@ -1,0 +1,9 @@
+HTTP/2 302 
+date: Fri, 04 Jun 2021 09:16:11 GMT
+content-length: 0
+location: https://fileserver.central.ballerina.io/2.0/ballerinax/twilio/0.99.8/ballerinax-twilio-java11-0.99.8.bala
+set-cookie: route=1622798172.564.83.823145; Path=/2.0/?(registry/packages.*); Secure; HttpOnly
+content-disposition: attachment; filename=ballerinax-twilio-java11-0.99.8.bala
+strict-transport-security: max-age=15724800; includeSubDomains
+x-frame-options: DENY
+
